@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h2>feliz niver</h2>
+	<% 
+		System.out.println("javinha");
+	%>
 </body>
 </html>
